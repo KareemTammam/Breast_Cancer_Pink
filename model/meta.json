@@ -1,0 +1,1 @@
+{"best_model_name": "SVC", "n_samples": 569, "n_features_raw": 25, "n_features_encoded": 25, "n_train": 455, "n_test": 114, "class_balance": {"0": 0.6274, "1": 0.3726}, "class_counts": {"0": 357, "1": 212}}

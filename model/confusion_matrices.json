@@ -1,0 +1,1 @@
+{"Logistic Regression": [[71, 1], [2, 40]], "KNN": [[71, 1], [3, 39]], "SVC": [[72, 0], [1, 41]], "Decision Tree": [[72, 0], [7, 35]], "Random Forest": [[72, 0], [3, 39]], "AdaBoost": [[72, 0], [3, 39]], "Gradient Boosting": [[71, 1], [4, 38]], "XGBoost": [[72, 0], [3, 39]]}
